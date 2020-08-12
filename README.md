@@ -49,13 +49,10 @@ Run "yarn start" to run this app in your local server
 
 Feel free to do any contribution!
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Edur
+* Eduardo Ruiz
 
 
 ## Acknowledgments
