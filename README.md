@@ -3,6 +3,8 @@
 BMI CALCULATOR is a simple app which tells your current BMI once you pass in your height and weight. Based upon your results
 the app will give you some advices.
 
+![alt logo image](https://github.com/eduru/bmi_calc_v1/blob/master/src/logo.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
