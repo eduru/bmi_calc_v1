@@ -1,3 +1,5 @@
+"This was created during my time as a student at Code Chrysalis."
+
 # BMI CALCULATOR V1
 
 BMI CALCULATOR is a simple app which tells your current BMI once you pass in your height and weight. Based upon your results
